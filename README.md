@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm [Your Name] 👾</h1>
+<h1 align="center">Hey there! I'm Harsh 👾</h1>
 
 <p align="center">
   🧠 Curious mind | 🎮 Aspiring Game Developer | ✨ Learning Unity & C# | 💻 Building my future one project at a time
